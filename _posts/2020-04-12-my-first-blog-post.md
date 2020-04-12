@@ -1,3 +1,5 @@
-title: "Welcome to my blog"
-date: 2019-01-20
+---
+title: "First Post"
+date: 2020-04-13
+---
 最初のポストです
